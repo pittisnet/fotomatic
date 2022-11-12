@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix OpenVINO links (#7930)
