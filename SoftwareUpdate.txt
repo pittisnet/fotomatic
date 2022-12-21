@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix TypeError in check_cfg() (#9245)
