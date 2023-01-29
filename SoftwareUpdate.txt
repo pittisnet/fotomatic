@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fix Multi-GPU resume bug (#7328)
