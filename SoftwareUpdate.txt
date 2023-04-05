@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
