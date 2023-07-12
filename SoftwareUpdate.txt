@@ -1,1 +1,1 @@
-add yolov10
+Mkdocs annotations fixes (#7600)
