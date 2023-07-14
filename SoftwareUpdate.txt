@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add HUB-SDK Docs reference section (#7781)
