@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
