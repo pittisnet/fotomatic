@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Expand Model method type hinting (#8279)
