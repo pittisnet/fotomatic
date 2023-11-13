@@ -1,1 +1,1 @@
-fix non-coco val
+More robust PNNX downloads (#8866)
