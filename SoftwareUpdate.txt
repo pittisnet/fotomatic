@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add YOLOv8 LibTorch C++ inference example (#7090)
