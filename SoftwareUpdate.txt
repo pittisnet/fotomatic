@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix docker.yaml double-quote version bug (#7452)
