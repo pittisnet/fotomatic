@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Update docs building code (#7601)
