@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Optimize function calls to method calls (#8507)
