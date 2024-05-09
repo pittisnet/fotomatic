@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add visuals in guides/distance-calculation.md (#7876)
