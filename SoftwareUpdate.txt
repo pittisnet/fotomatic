@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix xyxyxyxyn calculation, swap axis (#8249)
